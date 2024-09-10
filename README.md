@@ -9,12 +9,6 @@
 
 
 
-### 전체 레시피 조회
-![image](https://github.com/user-attachments/assets/63bf1059-fd5c-40ca-be8d-3766693837f2)
-
-
-
-
 ### 상세 레시피
 ![image](https://github.com/user-attachments/assets/0f0d5253-f9eb-404c-a358-d57a584fe259)
 
