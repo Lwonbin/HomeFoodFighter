@@ -33,4 +33,6 @@
 
 
 ### API 명세서 및 맡은 기능
+
+레시피에 관한 기능을 맡았습니다.
 ![image](https://github.com/user-attachments/assets/12c69c6b-9af2-45da-9814-5123d4d237af)
